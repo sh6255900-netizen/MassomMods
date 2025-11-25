@@ -40,8 +40,7 @@
         "password": "pass456",
         "expirydate": "31-12-2025",
         "Allowoffline": false
-    },
-    {
+    },{
         "device_id": "298830547a7a953d",
         "username": "abcd123",
         "password": "pass456",
