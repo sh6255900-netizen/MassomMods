@@ -26,41 +26,4 @@
         "password": "pass456",
         "expirydate": "31-12-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "abc3141031851002",
-        "username": "abcd123",
-        "password": "pass456",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
-    }
-],
-    {
-        "device_id": "abc3141031851003",
-        "username": "abcd123",
-        "password": "pass456",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "abc3141031851004",
-        "username": "abcd123",
-        "password": "pass456",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
-    }
-,
-    {
-        "device_id": "abc3141031851005",
-        "username": "abcd123",
-        "password": "pass456",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "abc3141031851006",
-        "username": "abcd123",
-        "password": "pass456",
-        "expirydate": "31-12-2025",
-        "Allowoffline": false
     }
